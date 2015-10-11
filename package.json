@@ -1,0 +1,27 @@
+{
+  "name": "totaljs-calculator-api",
+  "version": "1.0.0",
+  "description": "# Install",
+  "main": "release.js",
+  "dependencies": {
+    "total.js": "^1.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gallegogt/totaljs-calculator-api.git"
+  },
+  "keywords": [
+    "total.js",
+    "node"
+  ],
+  "author": "Yolier Galan Tasse <gallegogt@gmail.com>",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/gallegogt/totaljs-calculator-api/issues"
+  },
+  "homepage": "https://github.com/gallegogt/totaljs-calculator-api#readme"
+}

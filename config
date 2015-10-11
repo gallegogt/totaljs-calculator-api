@@ -1,0 +1,11 @@
+name                     : Calculator Total.JS
+version                  : 1.01
+author                   : Yolier Galan Tasse <gallegogt@gmail.com>
+secret                   : 733efc13a5edf7b8320e99976ff382d02c1b2c96
+
+// Mail settings
+// mail.smtp                : smtp.yourwebsite.com
+// mail.smtp.options        : {"secure":false,"port":25,"user":"","password":"","timeout":10000}
+// mail.address.from        : your@yourwebsite.com
+// mail.address.reply       : your@yourwebsite.com
+// mail.address.bcc         : 

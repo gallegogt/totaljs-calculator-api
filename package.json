@@ -8,6 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node release.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,7 +20,7 @@
     "node"
   ],
   "author": "Yolier Galan Tasse <gallegogt@gmail.com>",
-  "license": "Apache",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/gallegogt/totaljs-calculator-api/issues"
   },
